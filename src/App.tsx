@@ -1,3 +1,4 @@
+import React from "react";
 import MicroShellApp from "@/components/MicroShellApp";
 
 export default function App() {
